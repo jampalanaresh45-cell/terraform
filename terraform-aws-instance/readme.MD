@@ -13,4 +13,4 @@ This module creates ec2 instance
 
 * public_ip - Public ip of the instance created
 * private_ip - Private ip of the instance created
-* instance_id - Instance id created
+* instance_id - Instance id created# terraform-aws-instance
